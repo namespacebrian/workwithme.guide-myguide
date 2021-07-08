@@ -11,21 +11,11 @@ github_url: https://github.com/namespacebrian/workwithme.guide-myguide
 # categories: [profile]
 ---
 
-_Two important points about your Work With Me document:_
-
-1. It's your document—this is just a starting point to help you in beginning to write it. Feel free to add and
-remove sections. Feel free to start with an empty page and fill it out however you'd like.
-1. It's meant to be a change with you—update it as frequently (or infrequently) as you'd like.
-
-_You might want to [estimate the reading time](http://niram.org/read/) of your document and keep it to 5 minutes or less._
-
 ## Values
 
 I value honesty, humor, learning, knowledge, and wisdom.  I find satisfaction in solving problems, especially when other people feel they have benefitted from it.
 
 ## Personality
-
-How do you act in the world? This can be a combination of descriptive and aspirational traits.
 
 - Candid
 - Curious
@@ -44,7 +34,7 @@ I strive to admit my mistakes and be transparent when something has gone wrong.
 
 My energy and focus are better in the afternoon than the morning.  I start concentrating on work around 10am EST but am often responsive to messages before that, and I can be very flexible to accommodate other people's schedules.
 
-I think I'm equally comfortable working alone or pairing up.  In larger group I start to become more reserved.
+I think I'm equally comfortable working alone or pairing up.  In larger groups I start to become more reserved.
 
 ## Communication Preferences
 
@@ -76,7 +66,7 @@ I get frustrated by the assertion that two spaces after a period is wrong.
 <!-- ## Career Goals & Future Interests
 
 What long term career goals do you have for yourself? What interests do you hope or plan for your
-future self to obsess over. --> -->
+future self to obsess over. -->
 
 ## Areas for Development
 
