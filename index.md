@@ -1,10 +1,10 @@
 ---
 layout: profile
 # Set both of these to your name
-title: First Last
-full_name: First Last
+title: Brian Weaver
+full_name: Brian Weaver
 # Set this to the Github URL for links to work correctly
-# github_url: https://github.com/abloomston/workwithme.guide-myguide/
+github_url: https://github.com/namespacebrian/workwithme.guide-myguide
 # To add a custom profile picture, add your profile picture to this directory, update, and uncomment the relative link below.
 # picture: ./profile.jpg
 # To add your name to the front page list, uncomment below
@@ -21,38 +21,38 @@ _You might want to [estimate the reading time](http://niram.org/read/) of your d
 
 ## Values
 
-What do you value most in the world, in people, and/or in yourself? You might find it helpful to
-spend a few minutes [googling "list of values"](https://www.google.com/search?q=list+of+values) and finding the values that most resonate with you.
+I value honesty, humor, learning, knowledge, and wisdom.  I find satisfaction in solving problems, especially when other people feel they have benefitted from it.
 
 ## Personality
 
 How do you act in the world? This can be a combination of descriptive and aspirational traits.
 
+- Candid
+- Curious
+- Introspective
+- Articulate
+- Droll / Jocular / Satirical
+
+I strive to admit my mistakes and be transparent when something has gone wrong.
+
 ## Receiving Feedback & Recognition
 
-How do you best receive feedback, be it positive or negative?
-
-What about when one of us wants to call you out in some way for something awesome you did, a
-great piece of advice you gave, an insight you had, or your amazing Cat Thursday shirt—how do
-you feel most comfortable receiving that recognition?
+- Positive: I certainly appreciate recognition of my positive contributions, but also feel self-conscious/shy being the center of attention.
+- Negative: I strive to be open to constructive criticism and avoid defensiveness.  It helps if I'm warned to brace for constructive criticism and this aspiration is invoked.
 
 ## Work Patterns
 
-What hours do you usually work?
+My energy and focus are better in the afternoon than the morning.  I start concentrating on work around 10am EST but am often responsive to messages before that, and I can be very flexible to accommodate other people's schedules.
 
-When do you prefer to work alone, versus in groups? How do your energy levels fluctuate through-
-out the day?
+I think I'm equally comfortable working alone or pairing up.  In larger group I start to become more reserved.
 
 ## Communication Preferences
 
-What should people expect from you when they reach out to you on Yammer, Email, or Slack?
-How should people best get your attention for urgent matters, during and out of your working
+Slack is the best way to get my attention quickly.  Phone/video calls are definitely best for topics that require interactive discussion, but I prefer to keep my phone completely silent so a Slack/text message to bring my attention to an incoming call is very helpful.
 
+Messages outside work hours are welcome with the caveat that I may or may not respond quickly.
 
-hours? What's your relationship to work communication when not at work? What are your signs
-that you'd prefer to not be interrupted when at work?
-
-## How To Know I’ve Gone To The Dark Side
+<!-- ## How To Know I’ve Gone To The Dark Side
 
 ### Warning Signs
 
@@ -67,29 +67,27 @@ Dark Side.
 
 ## Me Being Me
 
-Any habits that of yours that can be easily misinterpreted? Here's a good place to point them out.
+Any habits that of yours that can be easily misinterpreted? Here's a good place to point them out.-->
 
 ## Pet Peeves
 
-_I don't expect this list to change your actions—but it might help you better understand and empathize with my
-reactions._
+I get frustrated by the assertion that two spaces after a period is wrong.
 
-Any pet peeves we should know about? Knowing them may not, and shouldn't be expected to,
-change others actions—but it might help us better understand and empathize with your reactions.
-In fact, you might want the disclaimer above to stay in your document.
-
-## Career Goals & Future Interests
+<!-- ## Career Goals & Future Interests
 
 What long term career goals do you have for yourself? What interests do you hope or plan for your
-future self to obsess over.
+future self to obsess over. --> -->
 
 ## Areas for Development
 
-Anything you'd like us to know about yourself that makes you (gasp!) not perfect? If they are as-
-pects you'd like to change or are working on, this might be a good place to point out constructive
-and positive ways we can help you be aware of and take corrective action in the moment.
+### Tangents
 
-## Ask Me About
+**Tangents:** I'm sometimes overly-prone to tangents in both conversation and tasks.  How welcome or unwelcome this is varies by circumstance and between people.  I have been advised to "beware of rabbit holes" by a past manager.  I try to keep myself in check, but forgiveness and a gentle reminder to stay focused are helpful when it's becoming unappreciated.
+
+**"Realism":** I can be pessimistic at times, although I see it as being realistic rather than fanciful.  Let me know if it's affecting other people's moods so I can try to do better.
+
+
+<!-- ## Ask Me About
 
 Let's get to know one another! Here's a great place to list things you've done / activities you love
-/ conversations you're (almost) always excited to have!
+/ conversations you're (almost) always excited to have! -->
